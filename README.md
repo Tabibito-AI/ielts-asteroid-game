@@ -35,20 +35,15 @@ IELTS Vocabulary Asteroid Game は、IELTS 試験対策用の 708 個の英単�
 
 ## 🎮 ゲーム画面
 
-```
-Score: 70
+![IELTS Vocabulary Asteroid Game Screenshot](docs/game-screenshot.jpg)
 
-        [⏸ Pause]  [🏠 Menu]
-        
-    ◇ elude
-    
-◇ verbose          ◇ inscrutable
-    
-◇ heresy
-
-        [Target Input Box]
-        Target: None
-```
+**ゲーム実行中の画面**
+- スコア表示（左上）
+- 一時停止ボタン（⏸ Pause）と メニューボタン（🏠 Menu）が画面中央上部に配置
+- 複数の隕石が画面に表示され、各隕石に IELTS 単語が表示
+- 画面下部に入力フィールドと現在のターゲット表示
+- 右上に AI ティップパネル
+- 右下に音声制御ボタン
 
 ## ✨ 実装済み機能
 
