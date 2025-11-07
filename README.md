@@ -2,7 +2,7 @@
 
 **IELTS 語彙学習用インタラクティブゲーム**
 
-![Game Screenshot](https://github.com/Tabibito-AI/ielts-asteroid-game/raw/main/docs/game-screenshot.jpg)
+![IELTS Vocabulary Asteroid Game Screenshot](docs/game-screenshot.jpg)
 
 ## 📋 プロジェクト概要
 
@@ -283,9 +283,8 @@ MIT License - 詳細は LICENSE ファイルを参照
 
 ## 🔗 リンク
 
-- **デプロイ URL**: https://5000-ibhjukqfy968snr041skb-0dd1d30d.manusvm.computer/
+- **デプロイ URL**: https://ieltsgame-joucpohc.manus.space/
 - **GitHub リポジトリ**: https://github.com/Tabibito-AI/ielts-asteroid-game
-- **Manus**: https://manus.im
 
 ## 📅 更新履歴
 
@@ -303,5 +302,5 @@ MIT License - 詳細は LICENSE ファイルを参照
 **最終更新**: 2025 年 11 月 3 日  
 **バージョン**: 1.0.0
 
-Made with ❤️ by Tabibito AI
+Made by Tabibito AI
 
